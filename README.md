@@ -1,14 +1,6 @@
-# nodeJs-liveCoding-DIO 
+# nodeJs-live-Coding-DIO 
 
 <p>Vamos iniciar o desenvolvimento com Node.js, conhecendo os conceitos e uso do Node com JavaScript e aplicando isso a um projeto: criar um servidor, subir e devolver uma mensagem em JSON com informações de uso da memória RAM."</p>
-
-* link do resumo no Notion:
-<a>https://aeolian-caution-e12.notion.site/Introdu-o-ao-Node-js-com-JavaScript-conceitos-e-pr-tica-2d796ff73ccc49db92ca138467832dac</a>
-
-### Iniciando o projeto
-
-<p>Baixe o repositório pra sua máquina local para servir de guia na hora da live</p>
-
 
 ### o que é o NodeJS?
 
@@ -64,32 +56,3 @@ Imagine um repositório gigantesco com inúmeras ferramentas de desenvolvimento.
 <p>Criar um servidor, subir e devolver uma mensagem em JSON com informações de uso da memória RAM."</p></br></br>
 * Exemplo do servidor local:
 
-```
-http://localhost:3000
-```
-<img src='https://github.com/DianaMartine/nodeJs-liveCoding-DIO/blob/main/Nodejs/assets/server.png?raw=true' alt='server' />
-
-* Exemplo:
-
-index   | valor
---------- | ------
-OS | sistema operacional
-Arch | arquitetura
-TotalRAM | memória total
-FreeRAM | memória livre
-Usage | porcentagem de uso
-
-<img src='https://github.com/DianaMartine/nodeJs-liveCoding-DIO/blob/main/Nodejs/assets/pcRamUsage.png?raw=true' alt='pcRamUsage' />
-
-### Mas antes...
-
-Vamos instalar as ferramentas e deixar o ambiente nos trinques.</br></br>
-
-Links para baixar as ferramentas:</br>
-[NodeJS](https://nodejs.org/en/)</br>
-[VSCode](https://code.visualstudio.com/)
-
-### Segue esse link que tem o passo a passo da live:
-
-* link do resumo no Notion:
-<a>https://aeolian-caution-e12.notion.site/Introdu-o-ao-Node-js-com-JavaScript-conceitos-e-pr-tica-2d796ff73ccc49db92ca138467832dac</a>
