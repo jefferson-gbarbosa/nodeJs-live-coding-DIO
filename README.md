@@ -54,5 +54,4 @@ Imagine um repositório gigantesco com inúmeras ferramentas de desenvolvimento.
 ### O que vamos fazer:
 
 <p>Criar um servidor, subir e devolver uma mensagem em JSON com informações de uso da memória RAM."</p></br></br>
-* Exemplo do servidor local:
 
